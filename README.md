@@ -1,1 +1,1 @@
-"# Data-Structures-And-Algorithms-Project" 
+"# Data-Structures-And-Algorithms-Project - Please read the [assigment PDF](https://github.com/butlawr/Data-Structures-And-Algorithms-Project/blob/master/dsaMainAssignment2018.pdf) for information on the overview, requirments and development for this project." 
